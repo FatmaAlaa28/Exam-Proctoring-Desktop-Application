@@ -56,7 +56,6 @@ To set up and run the desktop application, ensure you have the following install
 1. Clone the Repository:
 
     git clone [https://github.com/FatmaAlaa28/Exam-Proctoring-Desktop-Application]
-    cd <desktop-repository-name>
     
 2. Install Dependencies:
 
@@ -79,7 +78,7 @@ To set up and run the desktop application, ensure you have the following install
 
 - Execute the main script:
 
-    python main.py
+    python mainNEW.py
   
 - The application will launch a login window where you can enter your email, password, and server URL.
 
