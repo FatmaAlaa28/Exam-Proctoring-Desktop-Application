@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the desktop application for the AI-Based Exam Proctoring System, designed to monitor online examinations in real-time with advanced anti-cheating measures. The desktop application is built using Python and leverages AI technologies for face recognition, gaze tracking, head movement detection, object detection, and audio monitoring to ensure exam integrity. It communicates with an admin side (hosted in a separate repository) to report cheating incidents.
+This repository contains the desktop application for the AI-Based Exam Proctoring System, designed to monitor online examinations in real-time with advanced anti-cheating measures. The desktop application is built using Python and leverages AI technologies for face recognition, gaze tracking, head movement detection, object detection, and audio monitoring to ensure exam integrity. It communicates with an admin side to report cheating incidents.
 
 The admin side, which manages exams, users, and cheating detection reports, is implemented using .NET and SQL Server and is hosted in a separate repository: [AI-Based Exam Proctoring System (Admin Side)](https://github.com/FatmaAlaa28/AI-Based-Exam-Proctoring-System).
 
