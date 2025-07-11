@@ -102,7 +102,7 @@ The desktop application communicates with the admin side for authentication and 
     
 3. Update the server URL in the login window to match the admin side's API base URL.
    
-Admin Repository: AI-Based Exam Proctoring System (https://github.com/FatmaAlaa28/AI-Based-Exam-Proctoring-System)[Admin Side].
+Admin Repository: AI-Based Exam Proctoring System [Admin Side](https://github.com/FatmaAlaa28/AI-Based-Exam-Proctoring-System).
 
 ## Usage
 1. Login: Enter your email, password, and the admin server URL in the login window.
