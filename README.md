@@ -14,7 +14,6 @@ The admin side, which manages exams, users, and cheating detection reports, is i
 - Head Movement Detection: Monitors head orientation to detect suspicious movements.
 - Object Detection: Identifies prohibited objects (e.g., phones, books) in the exam environment.
 - Audio Monitoring: Detects unauthorized sounds or voices during the exam.
-- Secure Browser Integration: Ensures the exam runs within Safe Exam Browser (SEB) for a controlled environment.
 - User Interface: Built with PyQt5, providing a clean interface for login, exam selection, and real-time monitoring.
 - Cheating Data Reporting: Sends detected violations to the admin side via RESTful APIs.
 
@@ -38,7 +37,6 @@ To set up and run the desktop application, ensure you have the following install
 
 - Python (version 3.8 or later)
 - Pip (Python package manager)
-- Safe Exam Browser (SEB) (required for secure exam environments)
 - Webcam and Microphone (for video and audio monitoring)
 - Dependencies (listed in requirements.txt):
   - opencv-python
